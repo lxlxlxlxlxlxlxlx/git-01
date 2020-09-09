@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3892d852-bfa6-4274-b21e-9edf44329748" name="Default Changelist" comment="修改一下">
+    <list default="true" id="3892d852-bfa6-4274-b21e-9edf44329748" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hell.java" afterDir="false" />
     </list>
@@ -42,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
@@ -89,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599638852225</updated>
-      <workItem from="1599638859909" duration="3644000" />
+      <workItem from="1599638859909" duration="4359000" />
     </task>
     <task id="LOCAL-00001" summary="创建一个项目">
       <created>1599641205869</created>
@@ -98,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599641205869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改一下">
+      <created>1599642552212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599642552212</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,17 +150,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="创建一个项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建一个项目" />
+    <MESSAGE value="修改一下" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改一下" />
   </component>
   <component name="WindowStateProjectService">
     <state x="430" y="208" width="421" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599640537543">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="430" y="208" width="421" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1599640537543" />
-    <state x="147" y="0" key="CommitChangelistDialog2" timestamp="1599642522290">
+    <state x="147" y="0" key="CommitChangelistDialog2" timestamp="1599642550889">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="147" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599642522290" />
+    <state x="147" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599642550889" />
     <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1599640766667">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
