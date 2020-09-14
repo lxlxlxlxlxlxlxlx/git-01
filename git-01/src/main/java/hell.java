@@ -9,6 +9,12 @@ public class hell {
         System.out.println("hell");
         System.out.println("liuxiao ");
 
+        //liuxiao
+
+    }
+
+    public static void main(String[] args) {
+        System.out.println("hello");
     }
 
 }
